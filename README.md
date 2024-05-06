@@ -4,9 +4,10 @@
 By: Pauline Mnev, Rachel Culbreath, Aroub Halawani
 
 This project aims to develop a start to finish process for a business owner to automate the creation of customized cartographic postcards & posters.
-By creating a script in Google Collaboratory, it enabled the team to utilize Google Forms in this process. This streamlined approach enables a business owner to share the link with a customer, who is able to input all of their customizations, and then the owner can simply run the script. This will output a ready made product for sale/sharing.
+By creating a script in Google Collaboratory, it enabled the team to utilize Google Forms in this process. This streamlined approach enables a business owner to share the link with a customer, who is able to input all of their customizations, and then the owner can simply run the script. This will output a ready made product for sale/sharing. The necessary "business owner" side of the project & assets is located in the shared Google Drive.
 
-Instructions can be found in the Instructions Document as well as the Google Collab Mapping.ipynb. 
+Instructions can be found in the [Instructions Document](https://docs.google.com/document/d/19HInFwAmldsk6nT97ErP9CZ0Kl01iWB_CoAjs17NGQs/edit?usp=sharing) as well as the Google Collab
+[Mapping.ipynb](https://colab.research.google.com/drive/18K-ciwIsS3paBEjGtoA4badTyYXPpDzz?usp=sharing)
 
 This project runs completely on Google Collaboratory. The prettymaps project has been noted to have bugs when running off of desktop, and the team opted into using the Google Collab space as the creator of the package recommends it. 
 
